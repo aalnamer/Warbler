@@ -164,6 +164,10 @@ nav + .container {
   display: block;
   margin-left: -15px;
 }
+#profile-header {
+  height: 360px;
+  width: 100%;
+}
 
 #profile-image {
   margin: 0 auto 15px;
